@@ -1,0 +1,27 @@
+{
+  "generator-jhipster": {
+    "applicationType": "microservice",
+    "baseName": "microTestNoSQL",
+    "buildTool": "maven",
+    "cacheProvider": "hazelcast",
+    "clientFramework": null,
+    "clientPackageManager": null,
+    "clientTheme": null,
+    "creationTimestamp": 1732089241898,
+    "databaseType": "cassandra",
+    "enableHibernateCache": false,
+    "enableTranslation": false,
+    "entities": [],
+    "jhipsterVersion": "8.7.3",
+    "jwtSecretKey": "OWUxYzBiN2M3N2EzYjRlNzhhM2NlMWJhYTk0N2MxZTU5MmY3NTVhOWFhYjMyODQ4ZWM3MjM0MjFhMmFmMDliNjRkODZiYTkzZGVkNTJhYjg5ZDY0YmNjMGQzZDliOGViOWQzNGUwNjQ5MWE5Y2ZiMmMxNzVhMzI0OGFmYWE2ZTM=",
+    "microfrontend": false,
+    "nativeLanguage": "en",
+    "otherLanguages": null,
+    "reactive": false,
+    "serviceDiscoveryType": "consul",
+    "skipClient": true,
+    "skipUserManagement": true,
+    "testFrameworks": ["cucumber"],
+    "websocket": null
+  }
+}
